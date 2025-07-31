@@ -23,7 +23,7 @@ The script generates a plot comparing conversion vs. time for both reaction type
 
 ![Conversion Plot](output_plot.png)
 
-## 🛠 Tools Used
+##  Tools Used
 - Python
 - NumPy
 - Matplotlib
